@@ -20,3 +20,7 @@ go run main.go
 ## 後續建議
 
 請依照速成課表，進行 Day 1 的學習與練習。
+
+
+## 下面是測試 github ssh 金鑰存取用
+test for github ssh key
